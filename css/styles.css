@@ -1,6 +1,6 @@
 body{
     background-image: none;
-    background-color:aqua; /*--changed the backgrond color to black--*/
+    background-color:black; /*--changed the backgrond color to black--*/
 }
 .im{
     display: block;
